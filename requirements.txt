@@ -1,0 +1,12 @@
+# =============================================================================
+# DHT Peer Finder - Python Requirements
+# =============================================================================
+#
+# This project uses 100% Python Standard Library modules:
+# - tkinter / ttk (GUI interface)
+# - socket / struct (Low-level UDP / TCP networking)
+# - threading / concurrent.futures (Asynchronous non-blocking network I/O)
+# - hashlib / json / csv / os / sys / time / re
+#
+# Zero third-party packages or pip installations required!
+# Minimum Python Version: Python 3.8+
